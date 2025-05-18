@@ -1,0 +1,7 @@
+torch
+matplotlib
+tiktoken
+tqdm
+numpy
+pandas
+psutil
