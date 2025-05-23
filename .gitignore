@@ -1,2 +1,3 @@
 scratch-llm
 __pycache__
+*.pth
