@@ -1,3 +1,4 @@
 scratch-llm
 __pycache__
 *.pth
+gpt2
