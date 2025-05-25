@@ -2,3 +2,5 @@ scratch-llm
 __pycache__
 *.pth
 gpt2
+*.csv
+sms_spam_collection*
