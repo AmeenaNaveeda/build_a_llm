@@ -4,3 +4,4 @@ __pycache__
 gpt2
 *.csv
 sms_spam_collection*
+*.pdf
